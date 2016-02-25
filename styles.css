@@ -1,0 +1,21 @@
+
+header, 
+nav,
+main,
+footer, 
+article, 
+section, 
+aside {
+   display: block;
+}
+
+
+.nav-ul {
+  padding: 0;
+}
+
+.nav-li {
+  display: inline; 
+  float: left;
+  list-style-type: none;
+}
